@@ -4,8 +4,7 @@ This is map created in QGIS 3.12 using freely available data from  the website h
 
 # Link to the Website
 
-<button name="button" onclick="darekrepos.github.io/mapasolectw/">Click me</button>
-
+[Click me](darekrepos.github.io/mapasolectw/){: .btn}
 
 # Screenshot
 
