@@ -4,7 +4,7 @@ This is map created in QGIS 3.12 using freely available data from  the website h
 
 # Link to the Website
 
-[Click me](darekrepos.github.io/mapasolectw/){: .btn}
+[mapa sołectw](https://darekrepos.github.io/mapasolectw/)
 
 # Screenshot
 
